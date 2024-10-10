@@ -2,13 +2,13 @@
 
 This project implements customer segmentation using RFM (Recency, Frequency, Monetary) analysis combined with K-means clustering. The objective is to classify customers into distinct segments based on their purchasing behavior to help businesses make informed decisions for targeted marketing strategies and personalized customer engagement.
 
-**Key Features**
+# Key Features 
 
 Customer Segmentation: Cluster customers based on their RFM scores and purchasing behavior.
 Behavioral Insights: Understand customer behavior by analyzing Recency, Frequency, and Monetary value of purchases.
 Marketing Strategy: Use customer segments to improve marketing campaigns, promotions, and customer retention efforts.
 
-Procedure
+## Procedure
 # 1. Data Preprocessing, Exploratory Data Analysis (EDA), and Data Engineering
 Libraries Used: Pandas, Numpy, Matplotlib, Seaborn
 Steps include cleaning the dataset, handling missing values, and performing exploratory data analysis to identify key trends and distributions in customer data.
