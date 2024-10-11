@@ -21,10 +21,12 @@ Monetary: Total amount spent by the customer.
 
 # 3. Model Building (K-means Clustering)
 Libraries Used: Scikit-learn, Seaborn, Matplotlib
+
 The RFM scores are used as features to perform K-means clustering, which groups customers into different clusters based on their similarity in purchasing patterns.
 
 # 4. Cluster Evaluation and Visualization
 Libraries Used: Scikit-learn, Seaborn, Matplotlib
+
 Evaluate the clusters using **Elbow Method** and inertia to determine the optimal number of clusters. Visualize customer segments using graphs for better understanding.
 
 # 5. Result Interpretation and Insights
@@ -38,5 +40,7 @@ Each segment exhibits distinct purchasing patterns, allowing for targeted market
 
 # Tools and Libraries
 Data Processing: Pandas, Numpy
+
 Visualization: Matplotlib, Seaborn
+
 Clustering: Scikit-learn
