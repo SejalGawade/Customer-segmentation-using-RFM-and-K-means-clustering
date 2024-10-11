@@ -15,8 +15,11 @@ Steps include cleaning the dataset, handling missing values, and performing expl
 
 # 2. RFM Scoring
 Each customer is assigned an RFM score based on:
+
 Recency: Days since the last purchase.
+
 Frequency: Number of purchases in a specified period.
+
 Monetary: Total amount spent by the customer.
 
 # 3. Model Building (K-means Clustering)
